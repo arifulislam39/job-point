@@ -14,8 +14,8 @@
     {
         "id": 3,
         "category_title": "Marketing & Sales",
-        "ava_job": "/src/assets/icons/social-media 1.png",
-        "img": "150 Jobs Available"
+        "ava_job":"100+ Jobs Available",
+        "img": "/src/assets/icons/social-media 1.png"
     },
     {
         "id": 4,
