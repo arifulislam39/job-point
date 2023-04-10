@@ -1,0 +1,80 @@
+[
+    {
+        "id":"1",
+        "img_logo":"/src/assets/logo/amazon.png",
+        "job_title":"Software Engineer",
+        "company_name":"Amazon",
+        "job_type_onsite":"Onsite",
+        "job_type_remote":"Remote",
+        "location":"Berlin.Germany",
+        "location_logo":"/src/assets/icons/Frame-4.png",
+        "salary":"100k-1500k",
+        "salary_logo":"/src/assets/icons/Frame.png"
+
+    },
+    {
+        "id":"2",
+        "img_logo":"/src/assets/logo/fb.png",
+        "job_title":"Software Engineer",
+        "company_name":"Facebook",
+        "job_type_onsite":"Onsite",
+        "job_type_remote":"Remote",
+        "location":"Berlin.Germany",
+        "location_logo":"/src/assets/icons/Frame-4.png",
+        "salary":"100k-1500k",
+        "salary_logo":"/src/assets/icons/Frame.png"
+
+    },
+    {
+        "id":"3",
+        "img_logo":"/src/assets/logo/google-1-1 1-1.png",
+        "job_title":"Software Engineer",
+        "company_name":"Google",
+        "job_type_onsite":"Onsite",
+        "job_type_remote":"Remote",
+        "location":"Berlin.Germany",
+        "location_logo":"/src/assets/icons/Frame-4.png",
+        "salary":"100k-1500k",
+        "salary_logo":"/src/assets/icons/Frame.png"
+
+    },
+    {
+        "id":"4",
+        "img_logo":"/src/assets/logo/netflix-4 1.png",
+        "job_title":"Software Engineer",
+        "company_name":"Netflix",
+        "job_type_onsite":"Onsite",
+        "job_type_remote":"Remote",
+        "location":"Berlin.Germany",
+        "location_logo":"/src/assets/icons/Frame-4.png",
+        "salary":"100k-1500k",
+        "salary_logo":"/src/assets/icons/Frame.png"
+
+    },
+    {
+        "id":"5",
+        "img_logo":"/src/assets/logo/tesla-9 1.png",
+        "job_title":"Software Engineer",
+        "company_name":"Tesla",
+        "job_type_onsite":"Onsite",
+        "job_type_remote":"Remote",
+        "location":"Berlin.Germany",
+        "location_logo":"/src/assets/icons/Frame-4.png",
+        "salary":"100k-1500k",
+        "salary_logo":"/src/assets/icons/Frame.png"
+
+    },
+    {
+        "id":"6",
+        "img_logo":"/src/assets/logo/google-1-1 1.png",
+        "job_title":"Software Engineer",
+        "company_name":"Google",
+        "job_type_onsite":"Onsite",
+        "job_type_remote":"Remote",
+        "location":"Berlin.Germany",
+        "location_logo":"/src/assets/icons/Frame-4.png",
+        "salary":"100k-1500k",
+        "salary_logo":"/src/assets/icons/Frame.png"
+
+    }
+]
