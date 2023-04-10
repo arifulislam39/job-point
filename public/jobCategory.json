@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category_title": "Account & Finance",
+        "ava_job": "300 Jobs Available",
+        "img": "/src/assets/icons/accounts 1.png"
+    },
+    {
+        "id": 2,
+        "category_title": "Creative Design",
+        "ava_job": "100+ Jobs Available",
+        "img": "/src/assets/icons/business 1.png"
+    },
+    {
+        "id": 3,
+        "category_title": "Marketing & Sales",
+        "ava_job": "/src/assets/icons/social-media 1.png",
+        "img": "150 Jobs Available"
+    },
+    {
+        "id": 4,
+        "category_title": "Engineering Job",
+        "ava_job": "224 Jobs Available",
+        "img": "/src/assets/icons/chip 1.png"
+    }
+]
