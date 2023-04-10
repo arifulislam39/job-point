@@ -16,21 +16,24 @@ const FeaturedJob = () => {
                 {
                     jobs.map(job => <div className='text-left border-2 w-auto h-96 rounded-md p-6'
                         key={job.id}>
-                        <img className='w-36 h-20' src={job.img_logo} alt="" />
+                        <img className='w-36 h-20 mb-5' src={job.img_logo} alt="" />
                         <h2>{job.job_title}</h2>
                         <h3>{job.company_name}</h3>
-                        <div className='flex'>
-                        <p>{job.job_type_onsite}</p>
-                        <p>{job.job_type_remote}</p>
+                        <div className='flex gap-3 text-blue-700 mt-3'>
+                            <button className='border-2 rounded p-1'>{job.job_type_onsite}</button>
+                            <button className='border-2 rounded p-1'>{job.job_type_remote}</button>
                         </div>
-                        <div className='flex'>
-                            <p>{job.location}</p>
-                            <p>{job.salary}</p>
+                        <div className='flex gap-6 mt-3'>
+                            <div className='flex items-center'><img src={job.location_logo} alt="" />
+                                <p>{job.location}</p></div>
+
+                            <div className='flex items-center'><img src={job.salary_logo} alt="" />
+                                <p>{job.salary}</p></div>
                         </div>
 
 
-                        <button class="bg-indigo-500 rounded-lg p-3 text-white">
-                        View Details
+                        <button class="bg-indigo-500 rounded-lg p-3 text-white mt-3">
+                            View Details
                         </button>
 
 

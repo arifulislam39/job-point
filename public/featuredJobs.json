@@ -28,7 +28,7 @@
     {
         "id":"3",
         "img_logo":"/src/assets/logo/google-1-1 1-1.png",
-        "job_title":"Software Engineer",
+        "job_title":"Technical Database Engineer",
         "company_name":"Google",
         "job_type_onsite":"Onsite",
         "job_type_remote":"Remote",
@@ -41,7 +41,7 @@
     {
         "id":"4",
         "img_logo":"/src/assets/logo/netflix-4 1.png",
-        "job_title":"Software Engineer",
+        "job_title":"Senior Product Designer",
         "company_name":"Netflix",
         "job_type_onsite":"Onsite",
         "job_type_remote":"Remote",
