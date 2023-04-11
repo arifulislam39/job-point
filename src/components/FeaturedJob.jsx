@@ -1,9 +1,15 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import JobDetailes from './JobDetailes';
+import AppliedJob from './AppliedJob';
+import { addToDb } from '../utilities/fakeDb';
 
 const FeaturedJob = () => {
+
     const [jobs, setJobs] = useState([]);
+   //console.log(jobs)
+
+
 
     useEffect(() => {
         fetch('/featuredJobs.json')
@@ -40,8 +46,12 @@ const FeaturedJob = () => {
 
 
                     </div>)
+
                 }
             </div>
+
+
+
 
         </div>
     );
