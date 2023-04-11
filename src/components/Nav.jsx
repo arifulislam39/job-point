@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 const Nav = () => {
     return (
-        <div className='flex justify-between ml-56 me-56 mt-5 items-center'>
+        <div className='bg-gray-200'><div className='flex justify-between ml-56 me-56 mt-5 items-center'>
             <h2 className='font-bold text-lg'>JOB POINT</h2>
             <div className='flex gap-5'>
                 <NavLink to='/' className={({ isActive }) => (isActive ? 'text-blue-600' : '')}>Home</NavLink>
@@ -15,7 +15,7 @@ const Nav = () => {
             <button class="bg-indigo-500 rounded-lg p-3 text-white">
                 Star Applying
             </button>
-        </div>
+        </div></div>
     );
 };
 
