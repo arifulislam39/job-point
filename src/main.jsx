@@ -8,11 +8,13 @@ import Blog from './components/Blog'
 import Statistics from './components/Statistics'
 import AppliedJob from './components/AppliedJob'
 import JobDetailes from './components/JobDetailes'
+import ErrorPage from './components/ErrorPage'
 
 const router =createBrowserRouter([
   {
     path:'/',
     element: <App />,
+    errorElement:<ErrorPage />,
     children:[
       {
         path:'/',
