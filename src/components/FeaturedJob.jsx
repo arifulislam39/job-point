@@ -31,8 +31,8 @@ const FeaturedJob = () => {
                     <h2>{job.job_title}</h2>
                     <h3>{job.company_name}</h3>
                     <div className='flex gap-3 text-blue-700 mt-3'>
-                        <button className='border-2 rounded p-1'>{job.job_type_onsite}</button>
-                        <button className='border-2 rounded p-1'>{job.job_type_remote}</button>
+                        <button className='border-2 rounded p-1'>{job.job_type}</button>
+                        <button className='border-2 rounded p-1'>{job.job_hour}</button>
                     </div>
                     <div className='flex gap-6 mt-3'>
                         <div className='flex items-center'><img src={job.location_logo} alt="" />
