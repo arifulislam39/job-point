@@ -37,7 +37,7 @@ const AppliedJob = () => {
     return (
         <div className='ml-56 me-56 mt-10 '>
             <div className='text-right mb-3 p-5 bg-gray-100 '>
-                <h3 className='text-center font-bold'>Applied Jobs</h3>
+                <h3 className='text-center font-bold text-xl'>Applied Jobs</h3>
                 <span onClick={handleRemote}>
                     <button className='border-2 rounded p-1 text-blue-700 border-blue-500'>Remote Job</button>
                 </span>
