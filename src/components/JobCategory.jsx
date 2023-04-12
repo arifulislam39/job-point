@@ -1,7 +1,7 @@
 import React from 'react';
 
 const JobCategory = ({categoryList}) => {
-    //console.log(categoryList)
+   // console.log(categoryList)
     return (
         <div className='ml-56 me-56 mt-28 text-center'>
             <h1 className='font-bold text-3xl mb-3'>Job Category List</h1>

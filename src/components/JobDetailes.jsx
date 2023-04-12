@@ -93,7 +93,6 @@ const JobDetailes = () => {
             </div>
             <div>
             </div>
-            {/* <AppliedJob /> */}
         </div>
     );
 };

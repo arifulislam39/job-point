@@ -6,6 +6,7 @@ import FeaturedJob from './FeaturedJob';
 
 const Home = () => {
     const categoryList = useLoaderData();
+   //console.log(categoryList)
 
 
     return (
