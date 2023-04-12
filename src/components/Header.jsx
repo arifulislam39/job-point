@@ -11,7 +11,7 @@ const Header = () => {
                 </button>
             </div>
             <div>
-                <img src="/src/assets/images/profile.png" alt="" />
+                <img src="https://i.ibb.co/n64BNtw/profile.png" alt="" />
 
             </div>
 
